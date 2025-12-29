@@ -56,9 +56,18 @@ This project follows industry-standard **Object-Oriented Programming (OOP)** pri
 
 ---
 
-## 💻 How to Run Locally
+## 💻 Local Installation & Setup
+
+Follow these steps to get **OptiFlow** running on your local machine.
+
+### Prerequisites
+* **Python 3.8** or higher installed.
+* **Git** installed.
+
+### Step-by-Step Guide
 
 **1. Clone the repository**
+Open your terminal or command prompt and run:
 ```bash
 git clone [https://github.com/Athma-26/optiflow-ab-platform.git](https://github.com/Athma-26/optiflow-ab-platform.git)
 cd optiflow-ab-platform

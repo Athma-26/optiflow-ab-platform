@@ -24,7 +24,7 @@ def load_lottie(url):
     try:
         r = requests.get(url, timeout=2)
         return r.json() if r.status_code == 200 else None
-    except:
+    except requests.exceptions.RequestException:
         return None
 
 lottie_success = load_lottie("https://assets10.lottiefiles.com/packages/lf20_lk80fpsm.json")

@@ -16,8 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3caaeeeb-0a1c-4014-a61f-bfdc82f07a7e" alt="Dashboard Demo 2" width="700"/>
+  <img src="https://github.com/user-attachments/assets/38cf041b-7375-4c99-baee-651bc64deeba" alt="Dashboard Demo 2" width="700"/>
 </p>
+
 
 
 

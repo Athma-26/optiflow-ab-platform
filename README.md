@@ -10,7 +10,16 @@
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Demo](https://via.placeholder.com/800x400.png?text=Please+Upload+Your+App+Screenshot+Here)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b7075c2-7491-4064-ade9-4fbf93deb54e" alt="Dashboard Demo 1" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3caaeeeb-0a1c-4014-a61f-bfdc82f07a7e" alt="Dashboard Demo 2" width="700"/>
+</p>
+
+
 
 ---
 
